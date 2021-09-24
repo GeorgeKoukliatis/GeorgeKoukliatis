@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GeorgeKoukliatis
-- 👀 I’m interested in Game developing
+- 👀 I’m interested in development
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Unity
 - 📫 How to reach me ...
